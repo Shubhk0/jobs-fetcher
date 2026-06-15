@@ -1,10 +1,10 @@
 # Job Statistics
 
-**Total Jobs:** 52
+**Total Jobs:** 49
 
-**Last Updated:** 2026-06-14T11:28:51.510715
+**Last Updated:** 2026-06-15T15:12:31.189350
 
 ## Jobs by Source
 
-- **LinkedIn:** 40
-- **RemoteOK:** 12
+- **LinkedIn:** 39
+- **RemoteOK:** 10
