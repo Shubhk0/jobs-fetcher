@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-07T14:44:50.506664",
-  "total_jobs": 45,
+  "timestamp": "2026-09-08T13:16:51.520928",
+  "total_jobs": 52,
   "filter": "IT/Tech/Software Development Jobs Only",
   "sources": [
     "LinkedIn",
@@ -16,104 +16,174 @@
   ],
   "jobs": [
     {
-      "title": "Software Engineer III - Fullstack Java",
-      "company": "JPMorganChase",
-      "location": "Glasgow, Scotland, United Kingdom",
+      "title": "Not specified",
+      "company": "WorkaJobs",
+      "location": "Remote",
       "salary": "Not specified",
-      "description": "LinkedIn Job - Software Engineer III - Fullstack Java",
-      "source": "LinkedIn",
-      "url": "https://uk.linkedin.com/jobs/view/software-engineer-iii-fullstack-java-at-jpmorganchase-4458578224?position=1&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=aa%2F4CAPVvjTUZtT0cIlInA%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.277561"
+      "description": "Camp Boss<br><br>PFC Group<br><br><ul><li> Full-time</li><li> Dubai, United Arab Emirates</li><li> 2w ago</li></ul><br/><br/>Please mention the word **LOVE** and tag RMjAuMTYxLjc3LjE2Nw== when applyin",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-summary-workajobs-1137290",
+      "posted_at": "2026-09-02T20:41:15+00:00"
     },
     {
-      "title": "Senior Software Engineer – Go (Golang)",
-      "company": "General Motors",
-      "location": "Warren, MI",
+      "title": "Not specified",
+      "company": "Ennismore",
+      "location": "Remote",
       "salary": "Not specified",
-      "description": "LinkedIn Job - Senior Software Engineer – Go (Golang)",
+      "description": "<strong>Company Description<br><br></strong>Test<br><br><strong>Job Description<br><br></strong>Test<br><br><strong>Qualifications<br><br></strong>Test<br><br><strong>Additional Information<br><br></s",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-mapping-test-via-sandra-ennismore-1137292",
+      "posted_at": "2026-09-01T23:46:03+00:00"
+    },
+    {
+      "title": "Not specified",
+      "company": "HARTMANN GROUP International",
+      "location": "Remote",
+      "salary": "Not specified",
+      "description": "<strong>404<br><br></strong>This page doesnât exist.<br><br><strong>Beware, our IT man might be in a bad mood!<br><br></strong>You better take a look here.<br/><br/>Please mention the word **DUMBFOU",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232",
+      "posted_at": "2026-08-31T08:52:01+00:00"
+    },
+    {
+      "title": "Not specified",
+      "company": "Jugopetrol AD",
+      "location": "Remote",
+      "salary": "Not specified",
+      "description": "<p><strong>JUGOPETROL AD, </strong>dio HelleniQ Energy Grupe, vodeÄa kompanija u oblasti veleprodaje i maloprodaje nafte i naftnih derivata u Crnoj Gori pod brendom EKO, traÅ¾i proaktivnog profesiona",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-merchandiser-jugopetrol-ad-1137234",
+      "posted_at": "2026-08-31T06:50:02+00:00"
+    },
+    {
+      "title": "Not specified",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Remote",
+      "salary": "Not specified",
+      "description": "<p><strong>Roles and Responsibilities - AWS cloud computing</strong></p><p><br></p><p><strong>Location - Hyderabad, Chennai, Kolkata, Pune, Bengaluru</strong></p><p><br></p><p><strong>Exp - 6 - 8 yrs<",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
+      "posted_at": "2026-08-31T06:05:15+00:00"
+    },
+    {
+      "title": "Not specified",
+      "company": "Royal Lepage Icon Realty",
+      "location": "Remote",
+      "salary": "Not specified",
+      "description": "<strong>Overview<br><br></strong>Languages<br><br>English<br><br>Education<br><br><ul><li> No degree, certificate or diploma <br><br></li></ul><strong>Experience<br><br></strong>Experience an asset<br",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196",
+      "posted_at": "2026-08-28T11:29:44+00:00"
+    },
+    {
+      "title": "Not specified",
+      "company": "The AI Whistleblower Initiative",
+      "location": "Remote",
+      "salary": "Not specified",
+      "description": "Remote - About AIWIAIWI is an independent non-profit that exists to ensure that insiders at frontier AI companies can speak up safely and effectively when they see something that should be addressed. ",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
+      "posted_at": "2026-08-27T09:00:02+00:00"
+    },
+    {
+      "title": "Not specified",
+      "company": "Greater Pell City Chamber of Commerce",
+      "location": "Remote",
+      "salary": "Not specified",
+      "description": "New South Express is seeking dedicated, hardworking individuals to join our team. We offer exciting career opportunities in transportation and logistics, competitive pay, comprehensive benefits, and o",
+      "source": "RemoteOK",
+      "url": "https://remoteOK.com/remote-jobs/remote-now-hiring-greater-pell-city-chamber-of-commerce-1137165",
+      "posted_at": "2026-08-27T07:00:22+00:00"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "company": "Accenture in India",
+      "location": "Ahmedabad, Gujarat, India",
+      "salary": "Not specified",
+      "description": "LinkedIn Job - Custom Software Engineer",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419969671?position=2&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=OjBJouhcXzDk7x0VY9sRcw%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.277803"
+      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4454591390?position=1&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=aQ3yngYQ8pElVE4DDaCRcQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.388700"
+    },
+    {
+      "title": "Software Engineer II - Clock Tree Synthesis (CTS), Innovus R&D",
+      "company": "Cadence",
+      "location": "Cambridge, England, United Kingdom",
+      "salary": "Not specified",
+      "description": "LinkedIn Job - Software Engineer II - Clock Tree Synthesis (CTS), Innovus R&D",
+      "source": "LinkedIn",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-ii-clock-tree-synthesis-cts-innovus-r-d-at-cadence-4436080809?position=2&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=BtxD7Porp7DC4OBFMm4adg%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.388995"
     },
     {
       "title": "Software Engineer",
-      "company": "Hopae",
-      "location": "Seoul, South Korea",
+      "company": "QinetiQ",
+      "location": "Manchester, England, United Kingdom",
       "salary": "Not specified",
       "description": "LinkedIn Job - Software Engineer",
       "source": "LinkedIn",
-      "url": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4454930804?position=3&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=px37N0wIuXCCbjdaQrSaHQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.277966"
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-at-qinetiq-4344103547?position=4&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=sEg8idj%2BojNU5DbS70Cg4Q%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.389390"
     },
     {
-      "title": "Software Dev Engineer II, Alexa Connections",
-      "company": "Amazon",
-      "location": "Chennai, Tamil Nadu, India",
+      "title": "Software Engineer",
+      "company": "Nuvo",
+      "location": "New York, NY",
       "salary": "Not specified",
-      "description": "LinkedIn Job - Software Dev Engineer II, Alexa Connections",
+      "description": "LinkedIn Job - Software Engineer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670?position=4&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=t9%2F%2BrEYf0ltZbgZf5GgyyA%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.278148"
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-nuvo-4378357766?position=5&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=9CH0wGuwVWfQkpG9rg8nFQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.389573"
     },
     {
-      "title": "Software Engineer, Apple Online Store (Early Careers)",
-      "company": "Apple",
-      "location": "Singapore, Singapore",
+      "title": "Software Engineer",
+      "company": "Oso",
+      "location": "New York, NY",
       "salary": "Not specified",
-      "description": "LinkedIn Job - Software Engineer, Apple Online Store (Early Careers)",
+      "description": "LinkedIn Job - Software Engineer",
       "source": "LinkedIn",
-      "url": "https://sg.linkedin.com/jobs/view/software-engineer-apple-online-store-early-careers-at-apple-4414165431?position=5&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=ICquADrfUeWChzcmaPcf2Q%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.278329"
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-oso-4363726700?position=6&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=%2Fr7b8fjyW9VqnTWfFaJqXA%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.389786"
     },
     {
-      "title": "Developer III - Software Engineering-Python Developer",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
+      "title": "Software Engineer 2",
+      "company": "Dell Technologies",
+      "location": "South West Community Development Council, Singapore",
       "salary": "Not specified",
-      "description": "LinkedIn Job - Developer III - Software Engineering-Python Developer",
+      "description": "LinkedIn Job - Software Engineer 2",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-python-developer-at-ust-4459926348?position=6&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=3vBcYXf2V3vVynw9rp%2FjFQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.278518"
+      "url": "https://sg.linkedin.com/jobs/view/software-engineer-2-at-dell-technologies-4460969150?position=7&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=FtgR6UsOsP7HNdqB6dIdJg%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.389964"
     },
     {
-      "title": "Fullstack Developer",
-      "company": "SAS",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Software Engineer",
+      "company": "Blossom",
+      "location": "New York, NY",
       "salary": "Not specified",
-      "description": "LinkedIn Job - Fullstack Developer",
+      "description": "LinkedIn Job - Software Engineer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-at-sas-4459849305?position=7&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=mzXMjzelPAbTZpWsILjV3A%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.278728"
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-blossom-4447220072?position=8&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=QHZPa%2BZfQkLJ5bo2yvQWXA%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.390150"
     },
     {
-      "title": "Software Development Engineer, AWS IAM Distributed Database System",
-      "company": "Amazon Web Services (AWS)",
-      "location": "Seattle, WA",
+      "title": "Software Engineer",
+      "company": "Chalk",
+      "location": "New York, NY",
       "salary": "Not specified",
-      "description": "LinkedIn Job - Software Development Engineer, AWS IAM Distributed Database System",
+      "description": "LinkedIn Job - Software Engineer",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455931376?position=8&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=XE4JtQf1IuXbskzmhnN7%2BA%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.278945"
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-chalk-4406548495?position=9&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=Z3hIqMj9niXEs22hIDl67g%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.390322"
     },
     {
-      "title": "Software Engineer III, Payments Technology",
-      "company": "JPMorganChase",
-      "location": "Singapore, Singapore",
+      "title": "Software Developer",
+      "company": "Voyatek",
+      "location": "Clifton Park, NY",
       "salary": "Not specified",
-      "description": "LinkedIn Job - Software Engineer III, Payments Technology",
+      "description": "LinkedIn Job - Software Developer",
       "source": "LinkedIn",
-      "url": "https://sg.linkedin.com/jobs/view/software-engineer-iii-payments-technology-at-jpmorganchase-4446307728?position=9&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=qoUP56VBS7%2FVRHuhBTUAGQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.279146"
-    },
-    {
-      "title": "Software Development Engineer II, Amazon Smart Vehicles",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
-      "salary": "Not specified",
-      "description": "LinkedIn Job - Software Development Engineer II, Amazon Smart Vehicles",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455903133?position=10&pageNum=0&refId=gaszLfaIPcj3vhqoKZG%2F8g%3D%3D&trackingId=8KzNieCOy2jibquEy4mICw%3D%3D",
-      "posted_at": "2026-09-07T14:44:30.279321"
+      "url": "https://www.linkedin.com/jobs/view/software-developer-at-voyatek-4448683020?position=10&pageNum=0&refId=bwk4AcyMp1HqkjAdcAKu4Q%3D%3D&trackingId=Z%2FlB5tcqt6jRm2D0npMUsQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:31.390490"
     },
     {
       "title": "Développeur Back End Python",
@@ -122,8 +192,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Développeur Back End Python",
       "source": "LinkedIn",
-      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-back-end-python-at-confluences-it-4274107088?position=1&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=2PjcP7f3nbNWdKi73XULHQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.164980"
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-back-end-python-at-confluences-it-4274107088?position=1&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=tZ2UUJpiMqblnDuv1VNRQQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.089377"
     },
     {
       "title": "SENIOR BACKEND PYTHON DJANGO DEVELOPER",
@@ -132,8 +202,18 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - SENIOR BACKEND PYTHON DJANGO DEVELOPER",
       "source": "LinkedIn",
-      "url": "https://au.linkedin.com/jobs/view/senior-backend-python-django-developer-at-auxo-care-4431954835?position=2&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=Lr6kTD6OjmyhOXzOVDDqpQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.165191"
+      "url": "https://au.linkedin.com/jobs/view/senior-backend-python-django-developer-at-auxo-care-4431954835?position=2&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=nW4LSdFURVTeB9dYijvNEA%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.089712"
+    },
+    {
+      "title": "Développeur Python Senior - SaaS BtoB",
+      "company": "Connity",
+      "location": "Bordeaux, Nouvelle-Aquitaine, France",
+      "salary": "Not specified",
+      "description": "LinkedIn Job - Développeur Python Senior - SaaS BtoB",
+      "source": "LinkedIn",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-python-senior-saas-btob-at-connity-4464344854?position=4&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=y9sicjQARHQk%2BTbzHVfT9w%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.090046"
     },
     {
       "title": "Python Developer",
@@ -142,8 +222,18 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Python Developer",
       "source": "LinkedIn",
-      "url": "https://pt.linkedin.com/jobs/view/python-developer-at-kcs-it-4452922593?position=4&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=LV%2BwCuNLrq0ren%2Bz6oRIcA%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.165477"
+      "url": "https://pt.linkedin.com/jobs/view/python-developer-at-kcs-it-4452922593?position=5&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=9f8yPBFqdbfW%2Bzf2oAyBng%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.090226"
+    },
+    {
+      "title": "Lead Python Backend Developer",
+      "company": "AiFA Labs",
+      "location": "Hyderabad, Telangana, India",
+      "salary": "Not specified",
+      "description": "LinkedIn Job - Lead Python Backend Developer",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/lead-python-backend-developer-at-aifa-labs-4463253082?position=6&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=3XoKHlOnp5i1sNtYcd%2Fz1w%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.090400"
     },
     {
       "title": "Python Developer",
@@ -152,8 +242,18 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Python Developer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/python-developer-at-astika-software-technologies-private-limited-4458865973?position=5&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=Tbx1I0Oz%2FZQZ%2B%2FuDIOeQSA%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.165652"
+      "url": "https://in.linkedin.com/jobs/view/python-developer-at-astika-software-technologies-private-limited-4458865973?position=7&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=Z2Oo%2BQa8s9WksAv5N2jVUw%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.090573"
+    },
+    {
+      "title": "Python Developer",
+      "company": "FPT Software",
+      "location": "Ho Chi Minh City, Vietnam",
+      "salary": "Not specified",
+      "description": "LinkedIn Job - Python Developer",
+      "source": "LinkedIn",
+      "url": "https://vn.linkedin.com/jobs/view/python-developer-at-fpt-software-4463270119?position=8&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=j%2BeXGiNwrL7g4v8DTPvSKg%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.090758"
     },
     {
       "title": "Senior Python Developer",
@@ -162,8 +262,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Senior Python Developer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/senior-python-developer-at-ppfas-mutual-fund-4444947307?position=6&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=PAvBi2nrrbEyXk3tBFgljA%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.165808"
+      "url": "https://in.linkedin.com/jobs/view/senior-python-developer-at-ppfas-mutual-fund-4444947307?position=9&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=74sV%2Fcay3TtaMX7IlG6edQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.090928"
     },
     {
       "title": "Senior Python Backend Software Developer",
@@ -172,38 +272,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Senior Python Backend Software Developer",
       "source": "LinkedIn",
-      "url": "https://uk.linkedin.com/jobs/view/senior-python-backend-software-developer-at-xelix-4459346626?position=7&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=4bYqU14bJ%2FcpIeSSgWzA9g%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.165955"
-    },
-    {
-      "title": "Python Backend Developer",
-      "company": "Wissen Technology",
-      "location": "Bengaluru, Karnataka, India",
-      "salary": "Not specified",
-      "description": "LinkedIn Job - Python Backend Developer",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/python-backend-developer-at-wissen-technology-4461963315?position=8&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=wdUn3U4J5JDHjBHadGnVRQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.166098"
-    },
-    {
-      "title": "(Senior) Software Developer Backend / Python",
-      "company": "Athereon GRC GmbH",
-      "location": "Saarbrücken, Saarland, Germany",
-      "salary": "Not specified",
-      "description": "LinkedIn Job - (Senior) Software Developer Backend / Python",
-      "source": "LinkedIn",
-      "url": "https://de.linkedin.com/jobs/view/senior-software-developer-backend-python-at-athereon-grc-gmbh-4451242890?position=9&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=YQs4FigYpn%2FR2Dojc%2FBY4g%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.166252"
-    },
-    {
-      "title": "DESARROLLADOR PYTHON DJANGO SENIOR",
-      "company": "knowmad mood",
-      "location": "Las Rozas de Madrid, Community of Madrid, Spain",
-      "salary": "Not specified",
-      "description": "LinkedIn Job - DESARROLLADOR PYTHON DJANGO SENIOR",
-      "source": "LinkedIn",
-      "url": "https://es.linkedin.com/jobs/view/desarrollador-python-django-senior-at-knowmad-mood-4438361063?position=10&pageNum=0&refId=UCJm2ANVNlG87sphvxS%2FrA%3D%3D&trackingId=USMAa41dhPxHU7Owq4t12w%3D%3D",
-      "posted_at": "2026-09-07T14:44:33.166397"
+      "url": "https://uk.linkedin.com/jobs/view/senior-python-backend-software-developer-at-xelix-4459346626?position=10&pageNum=0&refId=FTwmDfAcVH15hsRUPat7Fw%3D%3D&trackingId=%2BwXbaMt%2F3lFUW5kyK7IJig%3D%3D",
+      "posted_at": "2026-09-08T13:16:34.091097"
     },
     {
       "title": "React Developer",
@@ -212,8 +282,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - React Developer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-nurtur-4449757221?position=1&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=9nt3RqDzIZbCOT%2BCifC81w%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.029681"
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-nurtur-4449757221?position=1&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=lp%2Fh%2FUWwKRbCPHwaJcokHw%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.909294"
     },
     {
       "title": "Front End Developer",
@@ -222,8 +292,18 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Front End Developer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/front-end-developer-at-accenture-in-india-4448338980?position=2&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=S0sjx6B4H2cTx8KrUXXK5A%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.029876"
+      "url": "https://in.linkedin.com/jobs/view/front-end-developer-at-accenture-in-india-4448338980?position=2&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=qET8gCFlW9Mi6z%2FG9kKj3Q%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.909577"
+    },
+    {
+      "title": "Software Developer – ExtJS and JavaScript",
+      "company": "Novatech Software Pvt Ltd",
+      "location": "Nagpur, Maharashtra, India",
+      "salary": "Not specified",
+      "description": "LinkedIn Job - Software Developer – ExtJS and JavaScript",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-%E2%80%93-extjs-and-javascript-at-novatech-software-pvt-ltd-4438670031?position=3&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=0cpYe%2F90KUNSa5bQiDy1Ww%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.909795"
     },
     {
       "title": "Software Engineer",
@@ -232,8 +312,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Software Engineer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-iron-systems-inc-4454043270?position=3&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=Y4Mq9ddAh%2BywSK5Yfsyfpw%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.030040"
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-iron-systems-inc-4454043270?position=4&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=x5%2BSPXp1Sx%2Fo0PWPSBV8JA%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.910033"
     },
     {
       "title": "Javascript Developer - Remote Work | REF#296493",
@@ -242,18 +322,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Javascript Developer - Remote Work | REF#296493",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/javascript-developer-remote-work-ref%23296493-at-bairesdev-4435343175?position=4&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=uHtRsub7XBmaYExZgi9zUw%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.030189"
-    },
-    {
-      "title": "Web Developer",
-      "company": "Creative Monk Studio",
-      "location": "Chandigarh, Chandigarh, India",
-      "salary": "Not specified",
-      "description": "LinkedIn Job - Web Developer",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/web-developer-at-creative-monk-studio-4439537874?position=5&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=%2B1QMmhaoLx7QCR19gg%2BDoQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.030338"
+      "url": "https://in.linkedin.com/jobs/view/javascript-developer-remote-work-ref%23296493-at-bairesdev-4435343175?position=5&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=ZFUIwEl%2B6EZVXQSKOnZlHQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.910209"
     },
     {
       "title": "Web Developer",
@@ -262,8 +332,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Web Developer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4448330368?position=6&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=suU0esAnaD0NV5v1D57L6A%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.030488"
+      "url": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4448330368?position=6&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=tgTjNBO4Xx%2B%2FeOD%2F7dJi8g%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.910350"
     },
     {
       "title": "Software Developer",
@@ -272,8 +342,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Software Developer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-at-purespectrum-4407126467?position=7&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=Yd1z5HxoG43aXaBCnmeWQA%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.030595"
+      "url": "https://in.linkedin.com/jobs/view/software-developer-at-purespectrum-4407126467?position=7&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=mAEaw925bnIKItBpcPSCVQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.910538"
     },
     {
       "title": "Java Script Programmer",
@@ -282,8 +352,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Java Script Programmer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/java-script-programmer-at-amla-commerce-creator-of-artifi-and-znode-4332099617?position=8&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=fNmy%2BcyNi%2B%2Btfm3yjVA7KA%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.030714"
+      "url": "https://in.linkedin.com/jobs/view/java-script-programmer-at-amla-commerce-creator-of-artifi-and-znode-4332099617?position=8&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=hYK1EhU0NB0zuPZm6OIVcg%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.910753"
     },
     {
       "title": "Frontend Engineer",
@@ -292,8 +362,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Frontend Engineer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/frontend-engineer-at-sequence-dynamics-4449444532?position=9&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=jPFxMVFZJzCZRJXQa18q0w%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.030811"
+      "url": "https://in.linkedin.com/jobs/view/frontend-engineer-at-sequence-dynamics-4449444532?position=9&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=Z4EIzPsjgOKFfJiirVXbbw%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.910922"
     },
     {
       "title": "Frontend Developers",
@@ -302,8 +372,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Frontend Developers",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developers-at-ai-certs%C2%AE-india-4412283340?position=10&pageNum=0&refId=WnqbSYQxT%2BpHWBOCODoIUA%3D%3D&trackingId=8Bn8N4SCmyUE3pEWrix3Zw%3D%3D",
-      "posted_at": "2026-09-07T14:44:36.030904"
+      "url": "https://in.linkedin.com/jobs/view/frontend-developers-at-ai-certs%C2%AE-india-4412283340?position=10&pageNum=0&refId=MVOx3PpsYwJ2P4IYOpZItg%3D%3D&trackingId=BExt8sRhPsOYLHYqcF2gvQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:36.911048"
     },
     {
       "title": "Senior Data Scientist",
@@ -312,8 +382,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Senior Data Scientist",
       "source": "LinkedIn",
-      "url": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-habber-tec-portugal-4460825231?position=2&pageNum=0&refId=k1Jp%2FCpteIAmxUBHOeu6oQ%3D%3D&trackingId=9OjfxnKABqC8zuCRnjQLwQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:38.741668"
+      "url": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-habber-tec-portugal-4460825231?position=2&pageNum=0&refId=CM5heyBBEWgE7CcrTydfHw%3D%3D&trackingId=S3qaVk0n10fn0Nvw%2F%2Fi%2FfA%3D%3D",
+      "posted_at": "2026-09-08T13:16:39.695544"
     },
     {
       "title": "Scientifique principal.e en données // Senior Data Scientist",
@@ -322,8 +392,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Scientifique principal.e en données // Senior Data Scientist",
       "source": "LinkedIn",
-      "url": "https://ca.linkedin.com/jobs/view/scientifique-principal-e-en-donn%C3%A9es-senior-data-scientist-at-ssense-4452129928?position=3&pageNum=0&refId=k1Jp%2FCpteIAmxUBHOeu6oQ%3D%3D&trackingId=UV4yHWcDkrHnAdf%2B5vxPSg%3D%3D",
-      "posted_at": "2026-09-07T14:44:38.741950"
+      "url": "https://ca.linkedin.com/jobs/view/scientifique-principal-e-en-donn%C3%A9es-senior-data-scientist-at-ssense-4452129928?position=3&pageNum=0&refId=CM5heyBBEWgE7CcrTydfHw%3D%3D&trackingId=Nfrulg6yXXkdLvETcJZvgQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:39.695831"
     },
     {
       "title": "Data scientist H/F",
@@ -332,8 +402,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Data scientist H/F",
       "source": "LinkedIn",
-      "url": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4464088125?position=6&pageNum=0&refId=k1Jp%2FCpteIAmxUBHOeu6oQ%3D%3D&trackingId=IcCYKqt%2FCPp21sy1Zs11qA%3D%3D",
-      "posted_at": "2026-09-07T14:44:38.742262"
+      "url": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4464088125?position=6&pageNum=0&refId=CM5heyBBEWgE7CcrTydfHw%3D%3D&trackingId=Ovwt4JSURGVCBIpe9BVHwQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:39.696332"
     },
     {
       "title": "Whiteshield Data Scientist - AI Economics Unit",
@@ -342,8 +412,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Whiteshield Data Scientist - AI Economics Unit",
       "source": "LinkedIn",
-      "url": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872?position=7&pageNum=0&refId=k1Jp%2FCpteIAmxUBHOeu6oQ%3D%3D&trackingId=6mLkbqjFwg6jBP3QA4G5GQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:38.742396"
+      "url": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872?position=7&pageNum=0&refId=CM5heyBBEWgE7CcrTydfHw%3D%3D&trackingId=%2BVolnwjN%2Fk4GqF%2FZYQCRKA%3D%3D",
+      "posted_at": "2026-09-08T13:16:39.696658"
     },
     {
       "title": "Senior Data Scientist",
@@ -352,8 +422,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Senior Data Scientist",
       "source": "LinkedIn",
-      "url": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-miniclip-4369942470?position=8&pageNum=0&refId=k1Jp%2FCpteIAmxUBHOeu6oQ%3D%3D&trackingId=5ZAe1KZw%2F7t4my3BIurpNQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:38.742523"
+      "url": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-miniclip-4369942470?position=8&pageNum=0&refId=CM5heyBBEWgE7CcrTydfHw%3D%3D&trackingId=rbUoiOvGG5zJtnCg4uJENA%3D%3D",
+      "posted_at": "2026-09-08T13:16:39.696892"
     },
     {
       "title": "Data Scientist Senior- Paris - H/F",
@@ -362,8 +432,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Data Scientist Senior- Paris - H/F",
       "source": "LinkedIn",
-      "url": "https://fr.linkedin.com/jobs/view/data-scientist-senior-paris-h-f-at-stancer-4460724440?position=9&pageNum=0&refId=k1Jp%2FCpteIAmxUBHOeu6oQ%3D%3D&trackingId=EusnrhDSgxW7EsGe9vAX5Q%3D%3D",
-      "posted_at": "2026-09-07T14:44:38.742670"
+      "url": "https://fr.linkedin.com/jobs/view/data-scientist-senior-paris-h-f-at-stancer-4460724440?position=9&pageNum=0&refId=CM5heyBBEWgE7CcrTydfHw%3D%3D&trackingId=eZU71ixSUSS4n7pI7Xv7RQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:39.697109"
     },
     {
       "title": "Data Scientist",
@@ -372,18 +442,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - Data Scientist",
       "source": "LinkedIn",
-      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-optima-partners-4436120078?position=10&pageNum=0&refId=k1Jp%2FCpteIAmxUBHOeu6oQ%3D%3D&trackingId=b5S5qZ2kpwczjVvL6qqe2A%3D%3D",
-      "posted_at": "2026-09-07T14:44:38.742793"
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "SATYA SOFT SOLUTIONS",
-      "location": "Greater Jefferson City Area",
-      "salary": "Not specified",
-      "description": "LinkedIn Job - DevOps Engineer",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-satya-soft-solutions-4453073902?position=1&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=Y3x3uLfeAUcBacXpaGGLSQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.511387"
+      "url": "https://uk.linkedin.com/jobs/view/data-scientist-at-optima-partners-4436120078?position=10&pageNum=0&refId=CM5heyBBEWgE7CcrTydfHw%3D%3D&trackingId=nqrIIDJ%2BwhqRXzctB5jWJQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:39.697330"
     },
     {
       "title": "DevOps Engineer",
@@ -392,8 +452,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - DevOps Engineer",
       "source": "LinkedIn",
-      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-sidetrade-4455636132?position=2&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=nd2nysP4IDHfAWA%2BKPRNZw%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.511650"
+      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-sidetrade-4455636132?position=1&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=kvzIvRb075hqHUk7lfP0kQ%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.484809"
     },
     {
       "title": "DevOps Engineer",
@@ -402,8 +462,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - DevOps Engineer",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4461441247?position=3&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=HJFDszOyrIn8tvVToNO9cw%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.511826"
+      "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4461441247?position=2&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=deggsjKbXtCO0pXnpPOOMg%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.485068"
     },
     {
       "title": "DevOps Engineer",
@@ -412,8 +472,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - DevOps Engineer",
       "source": "LinkedIn",
-      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-remarcable-4346005463?position=4&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=2e%2Bhgqn7qOuPkMyhe42E%2BQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.512018"
+      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-remarcable-4346005463?position=3&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=E0QB6j0NUTHXkT8rJuyKFw%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.485265"
     },
     {
       "title": "DevOps Engineer",
@@ -422,8 +482,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - DevOps Engineer",
       "source": "LinkedIn",
-      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-synechron-4434552710?position=5&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=5sto9NomceTZfTyI9D%2FNbA%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.512203"
+      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-synechron-4434552710?position=4&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=0ceBcyHekZTBdRcviRCgVA%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.485494"
     },
     {
       "title": "DevOps Engineer",
@@ -432,18 +492,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - DevOps Engineer",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-indica-labs-4438426469?position=6&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=hJiVuslCH8WUGbsfMcD40g%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.512380"
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": "Pan Dimensional",
-      "location": "Salt Lake City Metropolitan Area",
-      "salary": "Not specified",
-      "description": "LinkedIn Job - DevOps Engineer",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-pan-dimensional-4458940733?position=7&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=4xcJDKplMM7V%2Fqi25WL1MQ%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.512540"
+      "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-indica-labs-4438426469?position=5&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=OWjv28LSXA6MccCEWnm%2FAw%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.485734"
     },
     {
       "title": "DevOps Engineer",
@@ -452,8 +502,8 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - DevOps Engineer",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/devops-engineer-at-robomq-4461063854?position=8&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=DGafcNya07UMgGO%2Fnq%2FSaw%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.512697"
+      "url": "https://in.linkedin.com/jobs/view/devops-engineer-at-robomq-4461063854?position=6&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=wxPZlYdFk6crgjG3RHglEw%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.485946"
     },
     {
       "title": "DevOps Engineer - Newcastle",
@@ -462,8 +512,28 @@
       "salary": "Not specified",
       "description": "LinkedIn Job - DevOps Engineer - Newcastle",
       "source": "LinkedIn",
-      "url": "https://uk.linkedin.com/jobs/view/devops-engineer-newcastle-at-accenture-uk-ireland-4453234988?position=9&pageNum=0&refId=mAFARmh0%2Fs8lPmODiQ%2BPUg%3D%3D&trackingId=kOOvrBf8gqN9rX15x6JMFg%3D%3D",
-      "posted_at": "2026-09-07T14:44:41.512833"
+      "url": "https://uk.linkedin.com/jobs/view/devops-engineer-newcastle-at-accenture-uk-ireland-4453234988?position=7&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=Knap0Q%2FgH03XXVMMnl0BRA%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.486147"
+    },
+    {
+      "title": "DevOps Engineer - Halifax Canada",
+      "company": "NTT DATA North America",
+      "location": "Halifax, Nova Scotia, Canada",
+      "salary": "Not specified",
+      "description": "LinkedIn Job - DevOps Engineer - Halifax Canada",
+      "source": "LinkedIn",
+      "url": "https://ca.linkedin.com/jobs/view/devops-engineer-halifax-canada-at-ntt-data-north-america-4448390806?position=9&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=gYRMndeu2PBh9NLQ2ibUaw%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.486558"
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Lorum",
+      "location": "New York, NY",
+      "salary": "Not specified",
+      "description": "LinkedIn Job - DevOps Engineer",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-lorum-4416280287?position=10&pageNum=0&refId=h4bdmfVBFsN2fGCyoESOQw%3D%3D&trackingId=0UKXTcHjpU1Sm4k8sxhxeg%3D%3D",
+      "posted_at": "2026-09-08T13:16:42.486788"
     }
   ]
 }
